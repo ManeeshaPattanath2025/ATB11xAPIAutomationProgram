@@ -1,11 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Pincode verification testcase">
-    <test verbose="2" preserve-order="true" name="ATB11xAPIAutomationProgram">
-        <classes>
-            <class name="com.thetestingacademy.ex_03_TestNG_with_AllureReport.APITesting_Lab_06_Testcase">
-
-            </class>
-        </classes>
-    </test>
-</suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/user/IdeaProjects/ATB11xAPIAutomationProgram"><classes><class name="com.thetestingacademy.ex_03_TestNG_with_AllureReport.APITesting_Lab_06_Testcase"><methods><include name="test_GET_POSITIVE_TC1"/><include name="test_GET_NEGATIVE_TC2"/><include name="test_GET_NEGATIVE_TC3"/></methods></class><class name="com.thetestingacademy.ex_04_RestAssured_HTTPMethods.GET.DELETE.APITesting013_DELETE_NonBDDStyle"><methods><include name="test_delete_non_bdd"/></methods></class><class name="com.thetestingacademy.ex_04_RestAssured_HTTPMethods.GET.GET.APITesting008_GET_BDDStyle"><methods><include name="test_GET_Positive"/></methods></class><class name="com.thetestingacademy.ex_04_RestAssured_HTTPMethods.GET.GET.APITesting009_GET_NonBDDStyle"><methods><include name="test_GET_NonBDD"/><include name="test_GET_NonBDD_Negative"/></methods></class><class name="com.thetestingacademy.ex_04_RestAssured_HTTPMethods.GET.PATCH.APITesting012_PATCH_NonBDDStyle"><methods><include name="test_patch_non_bdd"/></methods></class><class name="com.thetestingacademy.ex_04_RestAssured_HTTPMethods.GET.POST.APITesting010_POST_BDDStyle"><methods><include name="test_POST_Auth"/></methods></class><class name="com.thetestingacademy.ex_04_RestAssured_HTTPMethods.GET.POST.APITesting010_POST_NonBDDStyle"><methods><include name="test_POST_NONBDDStyle_Create_Token"/></methods></class><class name="com.thetestingacademy.ex_04_RestAssured_HTTPMethods.GET.PUT.APITesting011_PUT_NonBDDStyle"><methods><include name="test_put_non_bdd"/></methods></class><class name="com.thetestingacademy.ex_05_TestngExamples.APITesting015_BeforeTest"><methods><include name="test_PUT"/></methods></class><class name="com.thetestingacademy.ex_05_TestngExamples.APITesting016_TestNG_Priority"><methods><include name="t1"/><include name="t2"/><include name="t3"/><include name="t4"/></methods></class><class name="com.thetestingacademy.ex_05_TestngExamples.APITesting_014"><methods><include name="test_post_request2"/></methods></class></classes></test></suite>
