@@ -1,4 +1,4 @@
-package com.thetestingacademy.ex_06_TestAssertions;
+package com.thetestingacademy.ex_07_Payload_management.String;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 import static org.assertj.core.api.Assertions.*;
 
-public class APITesting027_RestAssured_TestNG_AssertJ_Assertions {
+public class  APITesting027_RestAssured_TestNG_AssertJ_Assertions {
 
     RequestSpecification requestSpecification;
     ValidatableResponse validatableResponse;
